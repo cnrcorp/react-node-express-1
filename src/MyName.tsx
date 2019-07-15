@@ -17,7 +17,7 @@ class MyName extends React.Component<Props> {
         );
     }
     static defaultProps = {
-        name: 'lomeo'
+        name: 'juliet'
     };
 }
 
